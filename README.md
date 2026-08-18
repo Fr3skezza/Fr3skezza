@@ -26,17 +26,6 @@ I'm a passionate **WebDev** and **Minecraft Developer** focused on turning creat
   <img src="https://skillicons.dev/icons?i=java,js,html,css,nextjs,nodejs,python,discord,bots,git,github,vscode" />
 </p>
 
-<br>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fr3shDev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fr3shDev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
 ## ⚡ What I Like Building
 
 - Minecraft server systems, SMP mechanics, LifeSteal features and innovative GameModes.
